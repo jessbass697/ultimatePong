@@ -1,0 +1,29 @@
+
+
+body {
+    background-color:#2D4B61;
+}
+
+#timer {
+    font-size:40px;
+    font-weight:bold;
+    color:#FEFEFE;
+    font-family: 'Kavivanar', cursive;
+    
+}
+
+#leaderboard {
+    font-size: 20px;
+    font-weight: bold;
+    color:#a2ff23;
+    font-family: 'Kavivanar', cursive;
+}
+
+h1 {
+    font-size:70px;
+    font-weight:bold;
+    text-align:center;
+    position:relative;
+    top:-660px;
+    right:150px;
+}
